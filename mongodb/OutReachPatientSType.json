@@ -1,0 +1,36 @@
+{ 
+    "_id" : ObjectId("5ed3d6595f9915067aa1db52"), 
+    "OutReachPatientSType" : "DAAS", 
+    "Fieldname" : "FirstName", 
+    "FieldType" : "TextBox"
+}
+{ 
+    "_id" : ObjectId("5ed3d6595f9915067aa1db54"), 
+    "OutReachPatientSType" : "DAAS", 
+    "Fieldname" : "LastName", 
+    "FieldType" : "TextBox"
+}
+{ 
+    "_id" : ObjectId("5ed3d6595f9915067aa1db56"), 
+    "OutReachPatientSType" : "DAAS", 
+    "Fieldname" : "Symptoms", 
+    "FieldType" : "Select"
+}
+{ 
+    "_id" : ObjectId("5ed3d6595f9915067aa1db58"), 
+    "OutReachPatientSType" : "DAAS", 
+    "Fieldname" : "Address", 
+    "FieldType" : "TextBox"
+}
+{ 
+    "_id" : ObjectId("5ed3d65a5f9915067aa1db5a"), 
+    "OutReachPatientSType" : "DAAS", 
+    "Fieldname" : "Created Date", 
+    "FieldType" : "Date"
+}
+{ 
+    "_id" : ObjectId("5ed3d65a5f9915067aa1db5c"), 
+    "OutReachPatientSType" : "DAAS", 
+    "Fieldname" : "Submitted Date", 
+    "FieldType" : "Date"
+}

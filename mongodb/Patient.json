@@ -1,0 +1,16 @@
+{ 
+    "_id" : ObjectId("5ecac30f5c0e950ace87eeb4"), 
+    "Patient" : "DAAS", 
+    "Name" : "John Smith", 
+    "Symptoms" : "cold", 
+    "Address" : "Sanjose, CA", 
+    "SubmittedDate" : "May 25, 2020"
+}
+{ 
+    "_id" : ObjectId("5ed3cfa65f9915050ccfef7b"), 
+    "Patient" : "DAAS", 
+    "Name" : "Joanne Smith", 
+    "Symptoms" : "Cough", 
+    "Address" : "New England", 
+    "SubmittedDate" : "May 25, 2020"
+}

@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("5ecac2ee5c0e950ace87eea7"), 
+    "Entities" : "DAAS", 
+    "EntityName" : "Patient"
+}
+{ 
+    "_id" : ObjectId("5ed3d3a25f9915067aa1db2b"), 
+    "Entities" : "DAAS", 
+    "EntityName" : "OutReachPatient"
+}
+{ 
+    "_id" : ObjectId("5ed3d6595f9915067aa1db50"), 
+    "Entities" : "DAAS", 
+    "EntityName" : "OutReachPatientS"
+}
+{ 
+    "_id" : ObjectId("5ed3d7475f9915067aa1db63"), 
+    "Entities" : "DAAS", 
+    "EntityName" : "OutReachPatientL"
+}

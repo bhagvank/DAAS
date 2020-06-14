@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("5ed3dae05f9915067aa1db7f"), 
+    "OutReachPatient" : "DAAS", 
+    "Updated Date" : "May 31, 2020", 
+    "Symptoms" : "Cold", 
+    "Submitted Date" : "May 30, 2020", 
+    "Address" : "San mateo", 
+    "Last Name" : "Hilton", 
+    "First Name" : "Jack"
+}
+{ 
+    "_id" : ObjectId("5ed3dcda5f9915067aa1db96"), 
+    "OutReachPatient" : "DAAS", 
+    "Updated Date" : "May 31,2020", 
+    "Symptoms" : "Cough", 
+    "Submitted Date" : "May 30, 2020", 
+    "Address" : "Los Angeles", 
+    "Last Name" : "Ma", 
+    "First Name" : "Jack"
+}

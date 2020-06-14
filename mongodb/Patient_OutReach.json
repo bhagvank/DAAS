@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("5ed3d2575f9915050ccfefb8"), 
+    "Patient_OutReach" : "DAAS", 
+    "Symptoms" : "Fever", 
+    "Created Date" : null, 
+    "Last Name" : null, 
+    "First Name" : null
+}

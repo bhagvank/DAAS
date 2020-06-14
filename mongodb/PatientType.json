@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5ecac2ee5c0e950ace87eea9"), 
+    "PatientType" : "DAAS", 
+    "Fieldname" : "Name", 
+    "FieldType" : "TextBox"
+}
+{ 
+    "_id" : ObjectId("5ecac2ee5c0e950ace87eeab"), 
+    "PatientType" : "DAAS", 
+    "Fieldname" : "Symptoms", 
+    "FieldType" : "Select"
+}
+{ 
+    "_id" : ObjectId("5ecac2ee5c0e950ace87eead"), 
+    "PatientType" : "DAAS", 
+    "Fieldname" : "SubmittedDate", 
+    "FieldType" : "Date"
+}
+{ 
+    "_id" : ObjectId("5ecac2ee5c0e950ace87eeaf"), 
+    "PatientType" : "DAAS", 
+    "Fieldname" : "Address", 
+    "FieldType" : "TextBox"
+}
