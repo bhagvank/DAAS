@@ -23,7 +23,13 @@ mvn package
 ```
 5. Deploy the war file located in Target to apachetomcat/webapps
 
-6. Start Mongodb first and then tomcat. access: http://localhost:8080/PatientAid-0.0.1/
+6. Start Mongodb first and then tomcat. 
+
+7. Import the json files from mongodb folder into mongodb database name : "DAAS".
+
+8.access: http://localhost:8080/PatientAid-0.0.1/
+
+9. You can login with username  and password mentioned in mongodb/user.json
 
 
 
