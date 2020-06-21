@@ -27,7 +27,7 @@ mvn package
 
 7. Import the json files from mongodb folder into mongodb database name : "DAAS".
 
-8. You can access: http://localhost:8080/DAAS/
+8. You can access: http://localhost:8080/DAAS-0.0.1/
 
 9. You can login with username  and password mentioned in mongodb/user.json
 
