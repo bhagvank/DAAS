@@ -1,6 +1,6 @@
 # DAAS
-Data as a service
 
+ DAAS platform (Data as a service) is a no code platform which has visual IDE for business users to build applications. Applications will have entities, services, and datasources. it will have capabilities to create multi channel apps and integrate them with services. Customizations can be provided easily as upgrades to the application deployed on AWS.  The applications can be customized with different themes and User interface will have search, filter, export and import capabilties. This platform will work with nosql database MongoDB.
 
 ## Prerequisites for DAAS
 
